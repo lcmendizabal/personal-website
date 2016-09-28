@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-color: #EBEBEB
+}
+div{
+    margin-top:20vh;
+}
+img{
+    height:300px;
+   width: 300px;
+ 
+border-radius: 50%;
+object-fit:cover;
+
+}
